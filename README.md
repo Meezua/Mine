@@ -1,3 +1,1 @@
-# Mine
-V2ray
-vfffv
+trojan://ea7a8ad6-7b2c-cb8d-5edc-0a0e3e54d8bd@104.24.165.28:443?security=tls&sni=lucky-base-4.ahmadrguard-2.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=lucky-base-4.ahmadrguard-2.workers.dev&path=%2Fsync#443%F0%9F%87%AB%F0%9F%87%B7104.24.165.28
